@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **KooYS/KooYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KooYS&show_icons=true&theme=dark)
-</div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KooYS&show_icons=true&theme=dark)
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KooYS&layout=donut)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KooYS&layout=donut)
+
 
